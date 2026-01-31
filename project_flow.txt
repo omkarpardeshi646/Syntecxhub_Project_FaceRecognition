@@ -1,0 +1,13 @@
+face-recognition-project/
+│
+├── dataset/
+│   ├── Omkar/
+│   │   ├── img1.jpg
+│   │   └── img2.jpg
+│   ├── Person2/
+│
+├── encode_faces.py
+├── recognize_faces.py
+├── add_new_face.py
+├── requirements.txt
+└── README.md
